@@ -1,6 +1,6 @@
 # Moove startup (Hypothetical Project)
 
-This educational project is created to practice TypeScript for Start2impact by simulating a basic micromobility service for a fictional startup.
+This educational project is created to practice TypeScript for Start2impact by simulating a basic micromobility service for a fictional startup. [here Codepen code](https://codepen.io/Mic-9-the-typescripter/pen/XWLwKVv)
 
 ## Features
 
